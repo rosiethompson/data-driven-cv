@@ -1,10 +1,9 @@
 ---
 name: Thompson
 surname: Rosie
-position: "Student"
+position: "UEA Student/retail assistant at ZSL Whipsnade Zoo"
 address: "School of Biological Sciences, University of East Anglia, Norwich, UK"
 phone: 
-www: rosiethompson.github.io
 email: "r.thompson@uea.ac.uk"
 github: rosiethompson
 date: "`r format(Sys.time(), '%B %Y')`"
