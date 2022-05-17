@@ -1,14 +1,12 @@
 ---
-name: Leftwich
-surname: Philip
-position: "Associate Professor"
+name: Thompson
+surname: Rosie
+position: "Student"
 address: "School of Biological Sciences, University of East Anglia, Norwich, UK"
 phone: 
-www: philip-leftwich.github.io
-email: "p.leftwich@uea.ac.uk"
-twitter: philipleftwich
-github: Philip-Leftwich
-linkedin: Philip Leftwich
+www: rosiethompson.github.io
+email: "r.thompson@uea.ac.uk"
+github: rosiethompson
 date: "`r format(Sys.time(), '%B %Y')`"
 output: 
   vitae::awesomecv:
